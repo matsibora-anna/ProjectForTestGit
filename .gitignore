@@ -1,4 +1,4 @@
 .idea/*
 *.iml
-Kata.java
-out/
+src/Kata.java
+out/*
