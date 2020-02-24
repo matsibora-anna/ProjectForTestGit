@@ -2,3 +2,4 @@
 *.iml
 src/Kata.java
 out/*
+src/PrimeDecamp.java
