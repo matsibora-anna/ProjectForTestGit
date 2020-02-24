@@ -5,7 +5,7 @@ public class StrongNumber {
         System.out.println(isStrongNumber(14));
     }
 
-    private static String isStrongNumber(int num) {
+    public static String isStrongNumber(int num) {
         ArrayList arrayNum = numberToArray(num);
         int sumFactorialNumber = 0;
 
