@@ -1,3 +1,5 @@
+package anna.matsibota.kata;
+
 public class FootballMatch {
 
     public int matchResult(int result1, int result2, int result3, int result4) {
