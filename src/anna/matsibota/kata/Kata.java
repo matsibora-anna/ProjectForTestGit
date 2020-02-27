@@ -1,12 +1,15 @@
 package anna.matsibota.kata;
 
 import org.junit.Test;
+
+import java.util.Arrays;
+import java.util.stream.Stream;
+
 import static org.junit.Assert.assertEquals;
 
 public class Kata {
 
     public static void main(String[] args) {
-
         //System.out.println(potatoes(82, 127, 80));
     }
 
@@ -57,7 +60,4 @@ public class Kata {
         result.append("\n");
         return result.toString();
     }
-
-
-
 }
