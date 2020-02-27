@@ -1,4 +1,4 @@
-package anna.matsibota.kata;
+package matsibota.kata;
 
 public class Thirteen {
     public static void main(String[] args) {

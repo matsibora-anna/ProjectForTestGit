@@ -1,6 +1,6 @@
-package anna.matsibota.kata.tests;
+package matsibota.kata.tests;
 
-import anna.matsibota.kata.*;
+import matsibota.kata.Kata;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

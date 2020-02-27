@@ -1,4 +1,4 @@
-package anna.matsibota.kata;
+package matsibota.kata;
 
 import org.junit.Test;
 

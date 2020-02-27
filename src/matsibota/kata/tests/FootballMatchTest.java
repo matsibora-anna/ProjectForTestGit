@@ -1,8 +1,8 @@
-package anna.matsibota.kata.tests;
+package matsibota.kata.tests;
 
+import matsibota.kata.FootballMatch;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import anna.matsibota.kata.*;
 
 class FootballMatchTest {
     FootballMatch firstMatch = new FootballMatch();
